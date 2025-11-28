@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Riset Generator",
+  "description": "An application to automatically generate scientific papers (theses, dissertations, papers) with features for selecting chapters, number of references, research methods, writing styles, and file export, ensuring all references are credible and from trusted sources.",
+  "requestFramePermissions": []
+}
